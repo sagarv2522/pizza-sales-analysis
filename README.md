@@ -1,4 +1,4 @@
-# pizza-sales-analysis
+# Pizza Sales Analysis
 
 <div align="left">
 
@@ -8,9 +8,9 @@
 
 </div>
 
-# Pizza Sales Analysis
+![Dashboard.png](https://github.com/sagarv2522/pizza-sales-analysis/blob/f7c02ca55bfcb7ae0a1551efbd13d9f968f11c54/image/Home.png)
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard.png](https://github.com/sagarv2522/pizza-sales-analysis/blob/f7c02ca55bfcb7ae0a1551efbd13d9f968f11c54/image/Best-worst%20sellers.png)
 
 ## Overview
 
