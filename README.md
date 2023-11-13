@@ -2,13 +2,41 @@
 
 <div align="left">
 
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300768B?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Selenium](https://img.shields.io/badge/Selenium-%230488D8?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%236A1B9A?style=flat-square&logo=beautifulsoup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
-[![Requests](https://img.shields.io/badge/Requests-%231BC63B?style=flat-square&logo=requests&logoColor=white)](https://docs.python-requests.org/en/latest/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 
 </div>
+
+# Pizza Sales Analysis
+
+![Dashboard Preview](Dashboard.png)
+
+## Overview
+
+This repository contains data related to pizza sales for the year 2015. The dataset comprises over 48,000 entries with more than 8 columns, including a primary key. The primary focus is on key performance indicators (KPIs) related to annual pizza sales.
+
+## Dashboard
+
+I've created a comprehensive dashboard using Power BI, leveraging MySQL as the backend database. The dashboard provides a visual representation of crucial pizza sales metrics.
+
+## Data Analysis Steps
+
+### 1. Data Collection
+
+- Collected pizza sales data for the year 2015.
+
+### 2. Data Cleaning
+
+- Checked and removed duplicates.
+- Added new columns with additional measurements.
+
+### 3. Database Setup
+
+- Established a MySQL database to store and manage the pizza sales data.
+- Loaded the data into the database.
+
+### 4. Dashboard Creation
+
+- Utilized Power BI for comprehensive data analysis.
+- Focused on key performance indicators related to annual pizza sales.
